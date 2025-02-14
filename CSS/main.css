@@ -137,7 +137,7 @@ body {
 .myimage {
     opacity: 1;
     display: block;
-    transition: .5s ease;
+    transition: .6s ease;
     backface-visibility: hidden;
 }
 
